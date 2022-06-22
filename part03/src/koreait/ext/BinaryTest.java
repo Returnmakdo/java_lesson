@@ -1,4 +1,4 @@
-package koreait.day18;
+package koreait.ext;
 
 public class BinaryTest {
 
